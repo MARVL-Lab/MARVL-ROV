@@ -1,3 +1,3 @@
 # MARVL-ROV
 
-For the Wiki, please check the Wiki tab.
+Please check the [Wiki tab](../../wiki).
